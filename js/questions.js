@@ -49,9 +49,4 @@ var questions = [
       options: ["\\", "//", "``", "*"],
       answer: "//"
     },
-    {
-      title: "What are the three important manipulations for a loop on a loop variable?",
-      options: ["Updation, Incrementation, Initialization", "Initialization, Testing, Incrementation", "Testing, Updation, Testing", "Initialization, Testing, Updation"],
-      answer: "Initialization, Testing, Updation"
-    }
   ];
